@@ -1,0 +1,24 @@
+body{
+    background-color: lightpink;
+}
+.header{
+    background-color: lightgreen;
+}
+.navbar-nav{
+    background-color: limegreen;
+}
+div{
+    background-color: lightblue;
+}
+.presentation{
+    background-color: darkgreen;
+}
+.card{
+    background-color: mediumaquamarine;
+}
+article{
+    background-color: skyblue;
+}
+footer{
+    background-color: orange;
+}
