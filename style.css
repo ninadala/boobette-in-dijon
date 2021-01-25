@@ -1,8 +1,12 @@
 
 .quest{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("stripes.jpeg");
-    
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.8)), url("stripes.jpeg");
+    background-repeat: no-repeat;
+    background-size: 110%;   
 }
 h5{
     font-weight: bold;
+}
+button:hover {
+    background-color: darkblue;
 }
