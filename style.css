@@ -10,3 +10,7 @@ h5{
 button:hover {
     background-color: darkblue;
 }
+#Layer_1{
+    height: 30px;
+    width: 30px;
+}
