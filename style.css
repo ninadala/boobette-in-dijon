@@ -1,10 +1,12 @@
-
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
 .quest{
     background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.8)), url("stripes.jpeg");
     background-repeat: no-repeat;
     background-size: 110%;   
 }
-h5{
+h1, h2, h3, h4, h5, h6{
     font-weight: bold;
 }
 button:hover {
