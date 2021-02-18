@@ -3,9 +3,12 @@
         font-size: 0.75em;
     }
     .card-img-top{
-        max-height: 75%;
-        max-width: 75%;
+        max-height: 79%;
+        max-width: 79%;
         margin: auto;
+    }
+    .table{
+        font-size: 0.5em;
     }
 }
 body{
