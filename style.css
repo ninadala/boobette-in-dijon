@@ -1,5 +1,11 @@
+@media screen and (max-width: 576px) {
+    main {
+        font-size: 50%;
+    }
+}
+
 body{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .stripes{
     background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.8)), url("stripes.jpeg");
